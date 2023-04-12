@@ -3,7 +3,7 @@
 
 <!-- Logo -->
 <p align="center">
-  <img src="logo.png" alt="WinZard Logo">
+  <img src="WinZard.png" alt="WinZard Logo">
 </p>
 
 <!-- Description -->
