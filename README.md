@@ -3,7 +3,7 @@
 
 <!-- Logo -->
 <p align="center">
-  <img src="WinZard.png" alt="WinZard Logo">
+  <img src="https://github.com/MegaFocusDev/WinZard/blob/main/Winzard.png" alt="WinZard Logo">
 </p>
 
 <!-- Description -->
