@@ -32,7 +32,7 @@
 <h2>Usage</h2>
 
 <p>
-  Once WinZard is installed, it runs in the background and provides a shortcut button on your keyboard to clear your clipboard quickly. The default shortcut key is <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>X</kbd>.
+  Once WinZard is installed, it runs in the background and provides a shortcut button on your keyboard to clear your clipboard quickly. The default shortcut key is <kbd>Ctrl</kbd> + <kbd>End</kbd>.
 </p>
 
 <!-- Customization -->
