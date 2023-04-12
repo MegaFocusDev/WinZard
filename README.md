@@ -23,7 +23,7 @@
 </ul>
 
 <h2 id="requirements">Requirements</h2>
-<p>WinZard requires Python 3 and the following packages, which can be installed by running "pip install -r requirements.txt" in a command prompt:</p>
+<p>WinZard requires Python 3 and the following packages, which can be installed by running <code>pip install -r requirements.txt</code> in a command prompt:</p>
 <ul>
 	<li>keyboard</li>
 	<li>pyperclip</li>
@@ -35,23 +35,23 @@
 <p>To install WinZard, follow these steps:</p>
 <ol>
 
-<li>Download the latest release of WinZard from the <a href=“https://github.com/user/repo/releases”>Releases</a> page on GitHub.</li>
+<li>Download the latest release of WinZard from the <a href=“https://github.com/MegaFocusDev/WinZard/releases”>Releases</a> page on GitHub.</li>
 
 <li>Extract the ZIP archive to a directory of your choice.</li>
 
 <li>Open a terminal or command prompt and navigate to the directory where you extracted the files.</li>
 
-<li>Verify that Python 3 is installed on your system by running the command “python --version”.</li>
+<li>Verify that Python 3 is installed on your system by running the command <code>python --version</code>.</li>
 
-<li>If Python 3 is installed, run the command “python winzard.py” to start WinZard.</li>
+<li>If Python 3 is installed, run the command <code>python winzard.py</code> to start WinZard.</li>
 
 <li>If you want to run the program at startup, follow the instructions below for your operating system:</li>
 
 <ul>
 
-<li><b>Windows:</b> Press the “Windows key” + “R” to open the Run dialog box, enter “shell:startup” and click “OK”. This will open the “Startup” folder. Create a shortcut to “winzard.py” here to run WinZard at startup.</li>
+<li><b>Windows:</b> Press the “Windows key” + “R” to open the Run dialog box, enter <code>shell:startup</code> and click “OK”. This will open the “Startup” folder. Create a shortcut to <code>winzard.py</code> here to run WinZard at startup.</li>
 
-<li><b>Mac:</b> Open System Preferences > Users & Groups > Login Items, click the “+” button and select “winzard.py” to add it to the list of items that run at login.</li>
+<li><b>Mac:</b> Open System Preferences > Users & Groups > Login Items, click the “+” button and select <code>winzard.py</code> to add it to the list of items that run at login.</li>
 
 <li><b>Linux:</b> Different Linux distributions have different ways of setting up startup programs. Please refer to your distribution’s documentation for instructions.</li>
 
@@ -70,7 +70,7 @@
 <h2>Customization</h2>
 
 <p>
-  WinZard allows you to customize the shortcut key by editing the “shortcut_key” variable in the “winzard.py” file. Simply open the “winzard.py” file using a code editor, locate the “shortcut_key” variable near the top of the file, and change the value to the desired shortcut key.
+  WinZard allows you to customize the shortcut key by editing the <code>shortcut_key</code> variable in the <code>winzard.py</code> file. Simply open the <code>winzard.py</code> file using a code editor, locate the <code>shortcut_key</code> variable near the top of the file, and change the value to the desired shortcut key.
 </p>
 
 <!-- License -->
