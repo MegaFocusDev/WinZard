@@ -18,7 +18,6 @@
   <li><a href="#installation">Installation</a></li>
   <li><a href="#usage">Usage</a></li>
   <li><a href="#customization">Customization</a></li>
-  <li><a href="#contributing">Contributing</a></li>
   <li><a href="#license">License</a></li>
 </ul>
 
@@ -41,13 +40,6 @@
 
 <p>
   WinZard allows you to customize the shortcut key and other settings from the settings interface. To open the settings, right-click on the tray icon and select "Settings". From there, you can change the shortcut key, toggle the "Run at startup" option, and customize other settings.
-</p>
-
-<!-- Contributing -->
-<h2>Contributing</h2>
-
-<p>
-  This is an open-source project and contributions are welcome! If you wish to contribute, please fork this repository and submit a pull request with your changes. Please see the <a href="CONTRIBUTING.md">Contributing guidelines</a> for more information.
 </p>
 
 <!-- License -->
