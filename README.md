@@ -15,18 +15,34 @@
 <h2>Table of Contents</h2>
 
 <ul>
+  <li><a href="#requirements">Requirements</a></li>
   <li><a href="#installation">Installation</a></li>
-  <li><a href="#usage">Usage</a></li>
-  <li><a href="#customization">Customization</a></li>
-  <li><a href="#license">License</a></li>
+	<li><a href="#usage">Usage</a></li>
+	<li><a href="#customization">Customization</a></li>
+	<li><a href="#license">License</a></li>
+</ul>
+
+<h2 id="requirements">Requirements</h2>
+<p>WinZard requires Python 3 and the following packages, which can be installed by running "pip install -r requirements.txt" in a command prompt:</p>
+<ul>
+	<li>keyboard</li>
+	<li>pyperclip</li>
 </ul>
 
 <!-- Installation -->
-<h2>Installation</h2>
-
-<p>
-  To install WinZard, simply download the latest release from the <a href="https://github.com/MegaFocusDev/WinZard/releases">Releases</a> page, and run the setup file.
-</p>
+<h2 id="installation">Installation</h2>
+<ol>
+	<li>Download the latest release from the <a href="https://github.com/user/repo/releases">Releases</a> page.</li>
+	<li>Extract the files from the downloaded ZIP folder to a location of your choice.</li>
+	<li>Put the "winzard.py" file in a folder in the path that runs the code at the startup of the computer. This will ensure that WinZard runs when you boot up your computer.</li>
+	<li>Install the required packages listed in the "requirements.txt" file:
+		<ol>
+			<li>Open a command prompt.</li>
+			<li>Navigate to the location where you saved the WinZard files.</li>
+			<li>Run the command "pip install -r requirements.txt".</li>
+		</ol>
+	</li>
+</ol>
 
 <!-- Usage -->
 <h2>Usage</h2>
