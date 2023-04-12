@@ -45,18 +45,6 @@
 
 <li>If Python 3 is installed, run the command <code>python winzard.py</code> to start WinZard.</li>
 
-<li>If you want to run the program at startup, follow the instructions below for your operating system:</li>
-
-<ul>
-
-<li><b>Windows:</b> Press the “Windows key” + “R” to open the Run dialog box, enter <code>shell:startup</code> and click “OK”. This will open the “Startup” folder. Create a shortcut to <code>winzard.py</code> here to run WinZard at startup.</li>
-
-<li><b>Mac:</b> Open System Preferences > Users & Groups > Login Items, click the “+” button and select <code>winzard.py</code> to add it to the list of items that run at login.</li>
-
-<li><b>Linux:</b> Different Linux distributions have different ways of setting up startup programs. Please refer to your distribution’s documentation for instructions.</li>
-
-</ul>
-
 </ol>
 
 <!-- Usage -->
