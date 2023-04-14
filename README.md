@@ -48,6 +48,8 @@
 
 <li>Great job, you’re all set. From now on, you won’t have to worry about running WinZard every time you start up your computer.</li>
 
+<p><strong>Tip:</strong> If you wish to disable WinZard from running on computer startup, you can easily do so from the Task Manager by navigating to the Startup tab and disabling the WinZard program from the list.</p>
+
 </ol>
 
 <!-- Usage -->
