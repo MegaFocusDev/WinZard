@@ -44,7 +44,7 @@
 
 <li>Verify that Python 3 is installed on your system by running the command <code>python --version</code>.</li>
 
-<li>If Python 3 is installed, run the command <code>python winzard.pyw</code> to start WinZard.</li>
+<li>Once you’ve verified that Python 3 is installed on your system, navigate to the directory where you extracted the WinZard files and run the command <code>python winzard.pyw</code> to start WinZard. If this is your first time running WinZard, you may need to run it as an administrator in order for it to work properly.</li>
 
 <li>Great job, you’re all set. From now on, you won’t have to worry about running WinZard every time you start up your computer.</li>
 
