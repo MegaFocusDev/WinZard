@@ -66,7 +66,6 @@
 
 <h2 id="uninstallation">Uninstallation</h2>
 <p>Uninstalling WinZard is very easy. To remove the program from your system, simply delete the <code>winzard.pyw</code> file from the directory where you extracted the files. That’s it!</p>
-<p><b>Note:</b> If you encounter any permission errors while deleting the file, make sure that you have the necessary permissions to write to the directory. Also, we highly recommend that you trust the code before running it on your system.</p>
 
 <!-- License -->
 <h2 id="license">License</h2>
