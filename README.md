@@ -43,7 +43,7 @@
 
 <li>Verify that Python 3 is installed on your system by running the command <code>python --version</code>.</li>
 
-<li>If Python 3 is installed, run the command <code>python winzard.py</code> to start WinZard.</li>
+<li>If Python 3 is installed, run the command <code>python winzard.pyw</code> to start WinZard.</li>
 
 </ol>
 
