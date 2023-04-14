@@ -61,7 +61,7 @@
 <h2 id="customization">Customization</h2>
 
 <p>
-  WinZard allows you to customize the shortcut key by editing the <code>shortcut_key</code> variable in the <code>winzard.pyw</code> file. Simply open the <code>winzard.py</code> file using a code editor, locate the <code>shortcut_key</code> variable near the top of the file, and change the value to the desired shortcut key.
+  WinZard allows you to customize the shortcut key by editing the <code>shortcut_key</code> variable in the <code>winzard.pyw</code> file. Simply open the <code>winzard.pyw</code> file using a code editor, locate the <code>shortcut_key</code> variable near the top of the file, and change the value to the desired shortcut key.
 </p>
 
 <h2 id="uninstallation">Uninstallation</h2>
