@@ -46,6 +46,8 @@
 
 <li>If Python 3 is installed, run the command <code>python winzard.pyw</code> to start WinZard.</li>
 
+<li>Great job, you’re all set. From now on, you won’t have to worry about running WinZard every time you start up your computer.</li>
+
 </ol>
 
 <!-- Usage -->
@@ -59,7 +61,7 @@
 <h2 id="customization">Customization</h2>
 
 <p>
-  WinZard allows you to customize the shortcut key by editing the <code>shortcut_key</code> variable in the <code>winzard.py</code> file. Simply open the <code>winzard.py</code> file using a code editor, locate the <code>shortcut_key</code> variable near the top of the file, and change the value to the desired shortcut key.
+  WinZard allows you to customize the shortcut key by editing the <code>shortcut_key</code> variable in the <code>winzard.pyw</code> file. Simply open the <code>winzard.py</code> file using a code editor, locate the <code>shortcut_key</code> variable near the top of the file, and change the value to the desired shortcut key.
 </p>
 
 <h2 id="uninstallation">Uninstallation</h2>
