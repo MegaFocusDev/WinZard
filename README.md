@@ -8,7 +8,7 @@
 
 <!-- Description -->
 <p align="center">
-  WinZard is an open source and simple tool that provides a customizable shortcut button on your keyboard for clearing your clipboard quickly.
+  WinZard is an open source and simple tool for Windows that provides a customizable shortcut button on your keyboard for clearing your clipboard quickly.
 </p>
 
 <!-- Table of Contents -->
