@@ -36,7 +36,7 @@
 <p>To install WinZard, follow these steps:</p>
 <ol>
 
-<li>Download the latest release of WinZard from the <a href=“https://github.com/MegaFocusDev/WinZard/releases”>Releases</a> page on GitHub.</li>
+<li>Download the latest release of WinZard from the <a href="https://github.com/MegaFocusDev/WinZard/releases">Releases</a> page on GitHub.</li>
 
 <li>Extract the ZIP archive to a directory of your choice.</li>
 
